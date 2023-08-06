@@ -1,0 +1,12 @@
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain.SeedWork\bin\Debug\net6.0\Prueba.Domain.SeedWork.deps.json
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain.SeedWork\bin\Debug\net6.0\Prueba.Domain.SeedWork.dll
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain.SeedWork\bin\Debug\net6.0\Prueba.Domain.SeedWork.pdb
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain.SeedWork\obj\Debug\net6.0\Prueba.Domain.SeedWork.csproj.AssemblyReference.cache
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain.SeedWork\obj\Debug\net6.0\Prueba.Domain.SeedWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain.SeedWork\obj\Debug\net6.0\Prueba.Domain.SeedWork.AssemblyInfoInputs.cache
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain.SeedWork\obj\Debug\net6.0\Prueba.Domain.SeedWork.AssemblyInfo.cs
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain.SeedWork\obj\Debug\net6.0\Prueba.Domain.SeedWork.csproj.CoreCompileInputs.cache
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain.SeedWork\obj\Debug\net6.0\Prueba.Domain.SeedWork.dll
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain.SeedWork\obj\Debug\net6.0\refint\Prueba.Domain.SeedWork.dll
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain.SeedWork\obj\Debug\net6.0\Prueba.Domain.SeedWork.pdb
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain.SeedWork\obj\Debug\net6.0\ref\Prueba.Domain.SeedWork.dll

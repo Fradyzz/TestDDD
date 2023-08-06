@@ -1,0 +1,17 @@
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Infraestructure.Repository\bin\Debug\net6.0\Prueba.Infraestructure.Repository.deps.json
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Infraestructure.Repository\bin\Debug\net6.0\Prueba.Infraestructure.Repository.dll
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Infraestructure.Repository\bin\Debug\net6.0\Prueba.Infraestructure.Repository.pdb
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Infraestructure.Repository\bin\Debug\net6.0\Prueba.Domain.dll
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Infraestructure.Repository\bin\Debug\net6.0\Prueba.Domain.SeedWork.dll
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Infraestructure.Repository\bin\Debug\net6.0\Prueba.Domain.pdb
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Infraestructure.Repository\bin\Debug\net6.0\Prueba.Domain.SeedWork.pdb
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Infraestructure.Repository\obj\Debug\net6.0\Prueba.Infraestructure.Repository.csproj.AssemblyReference.cache
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Infraestructure.Repository\obj\Debug\net6.0\Prueba.Infraestructure.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Infraestructure.Repository\obj\Debug\net6.0\Prueba.Infraestructure.Repository.AssemblyInfoInputs.cache
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Infraestructure.Repository\obj\Debug\net6.0\Prueba.Infraestructure.Repository.AssemblyInfo.cs
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Infraestructure.Repository\obj\Debug\net6.0\Prueba.Infraestructure.Repository.csproj.CoreCompileInputs.cache
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Infraestructure.Repository\obj\Debug\net6.0\Prueba.Infraestructure.Repository.csproj.CopyComplete
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Infraestructure.Repository\obj\Debug\net6.0\Prueba.Infraestructure.Repository.dll
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Infraestructure.Repository\obj\Debug\net6.0\refint\Prueba.Infraestructure.Repository.dll
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Infraestructure.Repository\obj\Debug\net6.0\Prueba.Infraestructure.Repository.pdb
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Infraestructure.Repository\obj\Debug\net6.0\ref\Prueba.Infraestructure.Repository.dll

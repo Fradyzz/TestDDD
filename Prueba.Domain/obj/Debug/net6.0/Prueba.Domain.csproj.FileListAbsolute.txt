@@ -1,0 +1,15 @@
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain\bin\Debug\net6.0\Prueba.Domain.deps.json
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain\bin\Debug\net6.0\Prueba.Domain.dll
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain\bin\Debug\net6.0\Prueba.Domain.pdb
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain\bin\Debug\net6.0\Prueba.Domain.SeedWork.dll
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain\bin\Debug\net6.0\Prueba.Domain.SeedWork.pdb
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.csproj.AssemblyReference.cache
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.AssemblyInfoInputs.cache
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.AssemblyInfo.cs
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.csproj.CoreCompileInputs.cache
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.csproj.CopyComplete
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.dll
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain\obj\Debug\net6.0\refint\Prueba.Domain.dll
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.pdb
+D:\Proyects\.NET 6\PruebaDDD\Prueba.Domain\obj\Debug\net6.0\ref\Prueba.Domain.dll
