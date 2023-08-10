@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "8hAzqkji1XVWDztRG9FNmYdrWqq170N/9QIQ4A23C3Pmq9pQ5ZzCu/IoM0OYtALkiUyzRRBVKIS4xXIbC9+8rQ==",
+  "dgSpecHash": "PY/O94RLCTZcUSxlvcMZhdoLQ333oiVeDhv2oaLW/x6YMVAoaB7a7jrkOVY4cXz4yBsfa6eIrJBlcIxACMGCyw==",
   "success": true,
   "projectFilePath": "D:\\Proyects\\.NET 6\\PruebaDDD\\Prueba.Domain.SeedWork\\Prueba.Domain.SeedWork.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usuario\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\usuario\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\usuario\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
-    "C:\\Users\\usuario\\.nuget\\packages\\mediatr\\10.0.0\\mediatr.10.0.0.nupkg.sha512",
-    "C:\\Users\\usuario\\.nuget\\packages\\mediatr.contracts\\1.0.0\\mediatr.contracts.1.0.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\usuario\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\usuario\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\usuario\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.2\\microsoft.data.sqlclient.5.0.2.nupkg.sha512",

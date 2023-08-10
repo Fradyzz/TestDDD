@@ -54,7 +54,7 @@
             },
             "MediatR": {
               "target": "Package",
-              "version": "[10.0.0, )"
+              "version": "[12.1.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -127,7 +127,7 @@
             },
             "MediatR": {
               "target": "Package",
-              "version": "[10.0.0, )"
+              "version": "[12.1.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -208,7 +208,7 @@
             },
             "MediatR": {
               "target": "Package",
-              "version": "[10.0.0, )"
+              "version": "[12.1.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -289,7 +289,7 @@
             },
             "MediatR": {
               "target": "Package",
-              "version": "[10.0.0, )"
+              "version": "[12.1.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
